@@ -1,2 +1,2 @@
 # Leetcode
-:rainbow: LeetCode Solutions :helicopter:
+:rainbow: Leetcode Solutions :helicopter:
